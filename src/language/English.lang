@@ -1,0 +1,64 @@
+﻿File
+Log
+Exit
+Language
+About
+About us
+ ADD  >>> 
+<<<REMOVE 
+ MOVE UP  
+MOVE DOWN 
+  CLEAR   
+  START   
+ERROR
+Can't open log file. Please check permission for log.txt.
+Can't find and open log.txt. Please check permission for directory.
+No file or directory to process.
+Using Log
+About Program
+MESSAGE
+%s  :    File %s rename to %s success.
+%s  :    File %s rename fail.
+%s  :    Directory %s rename to %s success.
+%s  :    Directory %s rename fail.
+%s  :    The file or directory %s is not exist.
+%s  :    File %s rename to %s success.
+%s  :    File %s rename fail.
+%s  :    Directory %s rename to %s success.
+%s  :    Directory %s rename fail.
+%s  :    File %s rename extension success.
+%s  :    File %s rename extension fail.
+%s  :    %s is not a file.
+%s  :    The new path is not a directory.
+%s  :    File %s move success.
+%s  :    File %s move fail.
+%s  :    Directory %s move success.
+%s  :    Directory %s move file.
+OK
+Open
+File List
+Rename
+First Word:
+Start Number:
+000
+Number Of Digits:
+3
+Name Replace
+Replace for:
+Change to:
+Change Extension
+Extension:
+Move File
+Browse
+Data not correct
+Data error
+"First Word" Field doesn't write anything
+"Start Number" Field doesn't write anything
+"Number Of Digits" Field doesn't write anything
+"Start Number" Field is not a number of not a correct text format
+"Number Of Digits" Field is not a number of not a correct text format
+"Replace for" Field doesn't write anything
+"Change to"　 Field doesn't write anything
+"Extension" Field doesn't write anything
+"File Path" Field doesn't write anything
+Please Reload this program to change language
